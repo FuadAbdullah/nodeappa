@@ -1,0 +1,19 @@
+{
+  "name": "nodeappa",
+  "version": "1.0.0",
+  "description": "My first ever node.js application!",
+  "main": "server.js",
+  "scripts": {
+    "test": "console.log('Hello World');",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "testapp"
+  ],
+  "author": "Fuad Abdullah",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  }
+}
